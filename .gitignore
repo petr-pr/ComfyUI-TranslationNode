@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python environment folders
+env/
+venv/
+.venv/
+
+# ComfyUI model folders (user downloads models manually)
+models/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
