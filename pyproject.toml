@@ -29,7 +29,7 @@ Documentation = "https://github.com/petr-pr/ComfyUI-TranslationNode/wiki"
 "Bug Tracker" = "https://github.com/petr-pr/ComfyUI-TranslationNode/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "petr-pr"
 DisplayName = "ComfyUI-TranslationNode"
 Icon = ""
 includes = [] 
